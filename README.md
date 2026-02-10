@@ -8,7 +8,6 @@ Ich bin Dgamer, ein Github Nutzer
 
 ## 📘 Woran ich arbeite:
  Deutsche Plotsuqared Übersetzung - [Siehe hier](https://github.com/dgamerworlds251/Plotsquared-DE)
- 
  DGPlugins - [Siehe hier](https://github.com/DgamerPlugins), [Modrinth](https://modrinth.com/organization/dgplugins)
  
  Im Hintergrund arbeite ich an noch mehr! **Seit gespannt**
