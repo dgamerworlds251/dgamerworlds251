@@ -1,16 +1,12 @@
-## Hi there 👋
+# Moin Moin
+Ich bin Dgamer, ein Github Nutzer
+-# Was sonst?
 
-<!--
-**dgamerworlds251/dgamerworlds251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🌍 Minecraft Server
+Ich bin Gründer von den Minecraft Netzwerk **CraftoriaMC**
+Diesen könnt ihr über Java 1.21.5 mit der IP **craftoriamc.de** joinen
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##📘 Woran ich arbeite:
+Deutsche Plotsuqared Übersetzung - [Siehe hier](https://github.com/dgamerworlds251/Plotsquared-DE)
+DGPlugins - [Siehe hier](https://github.com/DgamerPlugins), [Modrinth](https://modrinth.com/organization/dgplugins)
+Im Hintergrund arbeite ich an noch mehr! **Seit gespannt**
